@@ -4,6 +4,6 @@
 
     <!-- BottomBar -->
     <string name="proprofile">Perfil Profesional</string>
-    <string name="workex">Experiencia Laboral</string>
-    <string name="extrainfo">Información adicional</string>
+    <string name="workex">Experiencia</string>
+    <string name="extrainfo">Formación</string>
 </resources>
