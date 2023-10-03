@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Colores Basicos
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //Paleta de colores agregada
+    <color name="primary">#f19601</color>
+    <color name="primaryDark">#251819</color>
+    <color name="color2">#73b295</color>
+    <color name="color3">#ebc83a</color>
+    <color name="color4">#f21f26</color>
+
+
+    //Colores trasparentes
+    <color name="blackT">#80000000</color>
+    <color name="whiteT">#80FFFFFF</color>
+</resources>

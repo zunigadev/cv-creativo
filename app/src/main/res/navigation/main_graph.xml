@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/proprofileFragment3">
+
+
+    <fragment
+        android:id="@+id/WExperienceFragment"
+        android:name="com.example.mycreativecv.ui.workexperience.WExperienceFragment"
+        android:label="fragment_w_experience"
+        tools:layout="@layout/fragment_w_experience" />
+    <fragment
+        android:id="@+id/extraInfoFragment"
+        android:name="com.example.mycreativecv.ui.extrainformation.ExtraInfoFragment"
+        android:label="fragment_extra_info"
+        tools:layout="@layout/fragment_extra_info" />
+    <fragment
+        android:id="@+id/proprofileFragment3"
+        android:name="com.example.mycreativecv.ui.proprofile.ProprofileFragment"
+        android:label="fragment_proprofile"
+        tools:layout="@layout/fragment_proprofile" />
+</navigation>
