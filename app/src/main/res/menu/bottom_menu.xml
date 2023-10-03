@@ -14,5 +14,6 @@
     <item
         android:id="@+id/extraInfoFragment"
         android:title="@string/extrainfo"
-        android:icon="@drawable/imagen1"/>
+        android:icon="@drawable/imagen1"
+        android:fontFamily="@font/pixel"/>
 </menu>
